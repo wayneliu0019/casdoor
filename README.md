@@ -41,7 +41,7 @@
     <img alt="Discord" src="https://img.shields.io/discord/1022748306096537660?style=flat-square&logo=discord&label=discord&color=5865F2">
   </a>
 </p>
-
+   
 <p align="center">
   <sup>Sponsored by</sup>
   <br>
