@@ -84,4 +84,4 @@ jobs:
           target: STANDARD
           platforms: linux/amd64
           push: true
-          tags: wayneliu0019/casdoor:v1.736.1
+          tags: wayne0019/casdoor:v1.736.1
